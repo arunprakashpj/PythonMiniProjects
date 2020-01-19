@@ -1,0 +1,2 @@
+# PythonMiniProjects
+Exploring Python
